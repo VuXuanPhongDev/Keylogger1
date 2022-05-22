@@ -1,0 +1,5 @@
+getpass
+smtplib
+pynut.keyboard
+Key
+Listener
